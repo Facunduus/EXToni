@@ -1,0 +1,19 @@
+3. Fes una aplicatiu web per a gestionar el manteniment de les persones que s'apunten a menjador cada dia. El programa ha de permetre introduir la gent i fer un llistat per pantalla de qui s'ha apuntat.
+
+4. Fes una web que ens permeti calcular les graus Celsius a partir dels graus  Fahrenheit. La fórmula de la conversió és C=5/9*(F-32)
+
+5. Escriu una aplicació web que donada una frase ens digui quantes lletres de cada hi ha i el seu percentatge respecte del total.
+
+6. Escriu una aplicació web per guardar els resultats dels partits de futblol de primera per a cada jornada i mostrar-los jornada a jornada.
+
+8.  Fes una aplicació web que donats dos números els imprimeixi de major a menor.
+
+9.  Fes una aplicació web per fer la caixa d'uns supermercat. Ha de demanar el número de billets i monedes de la caixa i tornar el resum i la suma.
+
+10. Del programa anterior fes que demani el dia i que vagi guardant les caixes diàries.
+
+12. Fes un programa per dur el control de la temperatura i pluviometria de cada dia.
+
+14. Fes un programa que ens permeti introduir les despeses i els ingressos que tenim i que ens presenti el llistat amb el saldo total que tenim.
+
+16. Escriu una programa que ens digui si dues paraules son anagrames, és a dir, que tenen les mateixes lletres.
